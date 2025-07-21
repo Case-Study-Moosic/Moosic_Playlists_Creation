@@ -54,6 +54,7 @@ For this case study a dataset with roughly 5000 Spotify songs including their au
 
 - `Scaler_Comparison`: Jupyter notebook comparing different scaling methods
 - `Playlist_Creation_with_PCA`: Jupyter notebook scaling the data, feature reduction and selection using PCA, K_Value selection using KneeLocator function and averaging over 100 random seed values, uploading example playlists to Spotify
+- `Spotify_App_Guide`: Jupyter notebook with instructions how to use the Spotify API
 - `Spotify_Data/`: Folder containing the CSV data file used in the project.
 - `Case_study_Moosic.pdf`: A detailed PDF report summarizing the findings (optional).
 
